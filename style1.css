@@ -1,0 +1,48 @@
+.menu
+{   
+    
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl6m5jhpBEvLUXeRUES_B0TGMCnYZNMOSVTw&usqp=CAU');
+}
+.logo
+{
+
+    text-align: center;
+    font-size: 30px;
+}
+ul {
+    list-style-type: none;
+    margin: 0 0 0 180px;
+    padding: 0;
+    overflow: hidden;
+   
+    
+  }
+  li a {
+    display: block;
+    text-align: center;
+    padding: 80px;
+    text-decoration:underline;
+    font-size: 200%;
+    font-weight:bold;
+    left:100px;
+    color: black;
+  }
+  li {
+    float: left;
+  }
+  .form
+  {
+    margin:0 200px 0 200px;
+    padding: 50px 20px;
+  }
+  input[type=text]
+  {
+    width: 50%;
+  }
+  .sub
+  {
+    float: right;
+    background-color: azure;
+    border-width: 20%;
+    
+  }
